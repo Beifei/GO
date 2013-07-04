@@ -36,17 +36,4 @@ save(pdb_scop40, file='pdb_scop40') #pdb files with 40% smilarities
 save(rhs_scop40, file='rhs_scop40') #-RHStaple disulfie bonds' proteins with 40% similarities
 
 #################################################
-
-
-
-
-
-
-
-
-
-
-
-
-
 	
